@@ -1,0 +1,19 @@
+[
+    {
+      "id": "1",
+      "firstName": "Kevin",
+      "lastName": "Teethfire",
+      "horns": 2,
+      "type": "fire"
+      
+    },
+    {
+      "id": "2",
+      "firstName": "Manfred",
+      "lastName": "Twistlefeet",
+      "horns": 3,
+      "type": "earth"
+     
+    }
+    
+  ]
