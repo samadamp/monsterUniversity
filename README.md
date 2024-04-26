@@ -1,30 +1,38 @@
-# React + TypeScript + Vite
+# Monster University App README
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Översikt
 
-Currently, two official plugins are available:
+Denna README ger dig en snabb genomgång av min Monster University. Den är utformad för dig som är admin och vill kunna lägga till eller ta bort monster studenter på skolan.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Använda tekniker
 
-## Expanding the ESLint configuration
+- React
+- TypeScript
+- Vite
+- CSS
+- TailWind
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+## Installation
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+För att köra denna app lokalt, följ dessa steg:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Klona repository: `git clone <repository-url>`
+2. Navigera till projektmappen: `cd monsterUniversity`
+3. Installera beroenden: `npm install` eller `yarn install`
+4. Starta utvecklingsservern: `npm run dev` eller `yarn dev`
+5. Öppna din webbläsare och gå till `http://localhost:3000` för att se appen.
+
+## Användning
+
+När appen körs, följ dessa steg för att använda den:
+
+1. Du kommer till Huvudsidan.
+2. Tryck på länken för att komma vidare"
+3. Följ input fälten för att läga till ditt monster.
+4. Tryck add eller delete för att lägga till eller ta bort.
+
+
+## Credits
+
+Detta projekt utvecklades av [Sam Pankhurst].
