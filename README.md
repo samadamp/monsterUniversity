@@ -35,4 +35,8 @@ När appen körs, följ dessa steg för att använda den:
 
 ## Credits
 
-Detta projekt utvecklades av [Sam Pankhurst].
+Detta projekt utvecklades av:
+
+# Sam Pankhurst
+
+
